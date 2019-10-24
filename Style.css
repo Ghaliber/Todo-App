@@ -1,0 +1,45 @@
+.top{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    margin-right: 50px;
+    background: RGB(71, 150, 229);
+    height: 400px;
+}
+.white-text{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input{
+    color: rgb(9, 116, 187);   
+    font-size: 120% ;
+}
+::placeholder{
+    color: rgb(9, 116, 187);
+}
+button{
+    width: 90px; height: 30px;
+}
+.to-do{
+    margin-top: 50px;
+    display: flex;
+    
+
+}
+/* .btn-test{
+    background: red;
+} */
+h3{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+button{
+    background: none;
+    border-radius: 4px;
+    border-color: grey  ;
+}
+
+.test{
+    background: coral;
+}
